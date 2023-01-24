@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/saar18hak/react-calci-app/static/css/main.150276e1.css",
-    "main.js": "/saar18hak/react-calci-app/static/js/main.e31668a9.js",
-    "static/js/787.dd804a3d.chunk.js": "/saar18hak/react-calci-app/static/js/787.dd804a3d.chunk.js",
-    "static/media/logo.svg": "/saar18hak/react-calci-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/saar18hak/react-calci-app/index.html",
-    "main.150276e1.css.map": "/saar18hak/react-calci-app/static/css/main.150276e1.css.map",
-    "main.e31668a9.js.map": "/saar18hak/react-calci-app/static/js/main.e31668a9.js.map",
-    "787.dd804a3d.chunk.js.map": "/saar18hak/react-calci-app/static/js/787.dd804a3d.chunk.js.map"
+    "main.css": "/react-calci-app/static/css/main.150276e1.css",
+    "main.js": "/react-calci-app/static/js/main.b9361381.js",
+    "static/js/787.dd804a3d.chunk.js": "/react-calci-app/static/js/787.dd804a3d.chunk.js",
+    "static/media/logo.svg": "/react-calci-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-calci-app/index.html",
+    "main.150276e1.css.map": "/react-calci-app/static/css/main.150276e1.css.map",
+    "main.b9361381.js.map": "/react-calci-app/static/js/main.b9361381.js.map",
+    "787.dd804a3d.chunk.js.map": "/react-calci-app/static/js/787.dd804a3d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.150276e1.css",
-    "static/js/main.e31668a9.js"
+    "static/js/main.b9361381.js"
   ]
 }
